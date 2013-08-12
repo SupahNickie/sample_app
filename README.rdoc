@@ -5,5 +5,5 @@ a base, it's time for me to start implementing my own ideas into another app usi
 as a guideline.
 
 -Nicholas Case
-Student at Code Fellows
-Oct-Dec '13 Rails Bootcamp
+(Student at Code Fellows -- 
+Oct-Dec '13 Rails Bootcamp)
